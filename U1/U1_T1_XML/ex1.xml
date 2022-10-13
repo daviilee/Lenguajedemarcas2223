@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE torneo_de_tenis>
+<torneo nombretorneo='Copa Davi.S'>
+    <inicio_torneo>13.10.2022</inicio_torneo>
+        <partido1>
+            <fecha>13.10.2022</fecha>
+            <jugador1>Rafael Nadal</jugador1>
+            <jug1_datos descripcion='Edad: 36, Nacionalidad: ESP'></jug1_datos>            
+            <jugador2>David Broncano</jugador2>
+            <jug2_datos descripcion='Edad: 37, Nacionalidad: ESP'></jug2_datos>
+            <resultado>
+                <set1>6-1</set1>
+                <set2>6-4</set2>
+                <set3></set3>
+            </resultado>
+        </partido1>
+        <partido2>
+            <fecha>14.10.2022</fecha>
+            <jugador1>Carlos Alcaraz</jugador1>
+            <jug1_datos descripcion='Edad: 19, Nacionalidad: ESP'></jug1_datos>            
+            <jugador2>Roger Federer</jugador2>
+            <jug2_datos descripcion='Edad: 41, Nacionalidad: CH (Suiza)'></jug2_datos>
+            <resultado>
+                <set1>1-6</set1>
+                <set2>6-4</set2>
+                <set3>7-5</set3>
+            </resultado>
+        </partido2>
+        <partido3>
+            <fecha></fecha>
+            <jugador1></jugador1>
+            <jug1_datos descripcion=''></jug1_datos>            
+            <jugador2></jugador2>
+            <jug2_datos descripcion=''></jug2_datos>
+            <resultado>
+                <set1></set1>
+                <set2></set2>
+                <set3></set3>
+            </resultado>
+        </partido3>
+        <partido4>
+            <fecha></fecha>
+            <jugador1></jugador1>
+            <jug1_datos descripcion=''></jug1_datos>            
+            <jugador2></jugador2>
+            <jug2_datos descripcion=''></jug2_datos>
+            <resultado>
+                <set1></set1>
+                <set2></set2>
+                <set3></set3>
+            </resultado>
+        </partido4>
+        <partido5>
+            <fecha></fecha>
+            <jugador1></jugador1>
+            <jug1_datos descripcion=''></jug1_datos>            
+            <jugador2></jugador2>
+            <jug2_datos descripcion=''></jug2_datos>
+            <resultado>
+                <set1></set1>
+                <set2></set2>
+                <set3></set3>
+            </resultado>
+        </partido5>
+        <partido6>
+            <fecha></fecha>
+            <jugador1></jugador1>
+            <jug1_datos descripcion=''></jug1_datos>            
+            <jugador2></jugador2>
+            <jug2_datos descripcion=''></jug2_datos>
+            <resultado>
+                <set1></set1>
+                <set2></set2>
+                <set3></set3>
+            </resultado>
+        </partido6>
+        <partido7>
+            <fecha></fecha>
+            <jugador1></jugador1>
+            <jug1_datos descripcion=''></jug1_datos>            
+            <jugador2></jugador2>
+            <jug2_datos descripcion=''></jug2_datos>
+            <resultado>
+                <set1></set1>
+                <set2></set2>
+                <set3></set3>
+            </resultado>
+        </partido7>
+        <partido8>
+            <fecha></fecha>
+            <jugador1></jugador1>
+            <jug1_datos descripcion=''></jug1_datos>            
+            <jugador2></jugador2>
+            <jug2_datos descripcion=''></jug2_datos>
+            <resultado>
+                <set1></set1>
+                <set2></set2>
+                <set3></set3>
+            </resultado>
+        </partido8>
+        <partido9>
+            <fecha></fecha>
+            <jugador1></jugador1>
+            <jug1_datos descripcion=''></jug1_datos>            
+            <jugador2></jugador2>
+            <jug2_datos descripcion=''></jug2_datos>
+            <resultado>
+                <set1></set1>
+                <set2></set2>
+                <set3></set3>
+            </resultado>
+        </partido9>
+        <partido10>
+            <fecha></fecha>
+            <jugador1></jugador1>
+            <jug1_datos descripcion=''></jug1_datos>            
+            <jugador2></jugador2>
+            <jug2_datos descripcion=''></jug2_datos>
+            <resultado>
+                <set1></set1>
+                <set2></set2>
+                <set3></set3>
+            </resultado>
+        </partido10>
+    <fin_torneo>31.12.2022</fin_torneo>
+</torneo>
