@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Libro SYSTEM "ej2.dtd">
+<Libro Catalogo="ReyLeon">
+    <Titulo>Rey Leon</Titulo>
+    <Seccion>Infantil</Seccion>
+    <SubSeccion>Animados</SubSeccion>
+    <Contenido>
+        <Capitulo materia="XML">
+            <Tema>Parte 1</Tema>
+        </Capitulo>
+    </Contenido>
+    <Copyright>David Leon</Copyright>
+</Libro>
