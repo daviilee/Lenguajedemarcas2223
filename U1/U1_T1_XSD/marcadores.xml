@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marcadores xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNameSpaceSchemaLocation="marcadores.xsd">
+    <pagina>
+        <nombre>IESCiudadjardin</nombre>
+        <descripcion>Instituto</descripcion>
+        <url>https://iesciudadjardin.es</url>
+    </pagina>
+    <pagina>
+        <nombre>wikipedia</nombre>
+        <descripcion>Enciclopedia</descripcion>
+        <url>https://es.wikipedia.org/wiki/Wikipedia:Portada</url>
+    </pagina>
+    <pagina>
+        <nombre>twitch</nombre>
+        <descripcion>entretenimiento</descripcion>
+        <url>https://www.twitch.tv</url>
+    </pagina>
+</marcadores>
