@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Tablas</title>
+        <style>
+            td,table {
+                border: 2px solid green;
+                border-collapse: collapse;
+            }
+        </style>
+    </head>
+    <body>
+        <table>
+            <tr>
+                <th>Nombre</th>
+                <th>Apellidos</th>
+                <th>Direccion</th>
+                <th>telefono</th>
+                <th>Email</th>
+            </tr>
+            <tr>
+                <td>Pepe</td>
+                <td>Perez</td>
+                <td>Aqui</td>
+                <td>111111111</td>
+                <td>yosoy@pepe.es</td>
+            </tr>
+            <tr>
+                <td>Manuel</td>
+                <td>Lopez</td>
+                <td>Alla</td>
+                <td>222222222</td>
+                <td>yosoy@manuel.es</td>
+            </tr>
+            <tr>
+                <td>Maria</td>
+                <td>Fernandez</td>
+                <td>Mas alla</td>
+                <td>333333333</td>
+                <td>yosoy@Maria.es</td>
+            </tr>
+            <tr>
+                <td>Sara</td>
+                <td>Gallardo</td>
+                <td>Mas aqui</td>
+                <td>444444444</td>
+                <td>yosoy@sara.es</td>
+            </tr>
+        </table>
+        <br>
+        <br>
+        <table style="background-color: grey">
+            <caption><h1>Alumnos Matriculados</h1></caption>
+            <thead>
+                <tr>
+                    <th>Nombres</th>
+                    <th>Apellidos</th>
+                    <th>Direccion</th>
+                    <th>Telefono</th>
+                    <th>Email</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Pepe</td>
+                    <td>Perez</td>
+                    <td>Aqui</td>
+                    <td>111111111</td>
+                    <td>yosoy@pepe.es</td>
+                </tr>
+                <tr>
+                    <td>Manuel</td>
+                    <td>Lopez</td>
+                    <td>Alla</td>
+                    <td>222222222</td>
+                    <td>yosoy@manuel.es</td>
+                </tr>
+                <tr>
+                    <td>Maria</td>
+                    <td>Fernandez</td>
+                    <td>Mas aqui</td>
+                    <td>333333333</td>
+                    <td>yosoy@maria.es</td>
+                </tr>
+                <tr>
+                    <td>Sara</td>
+                    <td>Gallardo</td>
+                    <td>Mas alla</td>
+                    <td>444444444</td>
+                    <td>yosoy@sara.es</td>
+                </tr>
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td>Pie de tabla para añadir mas informacion</td>
+                </tr>
+            </tfoot>
+        </table>
+        <br>
+        <br>
+        <table div align="center">
+            <caption><h2>Horario de clase</h2></caption>
+            <thead>
+                <tr>
+                    <th>Horas</th>
+                    <th>Lunes</th>
+                    <th>Martes</th>
+                    <th>Miercoles</th>
+                    <th>Jueves</th>
+                    <th>Viernes</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr div align="center">
+                    <td>8:15</td>
+                    <td rowspan="2">Iso</td>
+                    <td>Fol</td>
+                    <td>Fol</td>
+                    <td rowspan="2">LdM</td>
+                    <td rowspan="2">Iso</td>
+                </tr>
+                <tr div align="center">
+                    <td>9:15</td>
+                    <td>FH</td>
+                    <td>Par</td>
+                </tr>
+                <tr div align="center">
+                    <td>10:15</td>
+                    <td>BdD</td>
+                    <td>Par</td>
+                    <td>Par</td>
+                    <td>Iso</td>
+                    <td>Par</td>
+                </tr>
+                <tr div align="center">
+                    <td>11:15 <br>11:45</td>
+                    <td colspan="5" div align="center">RECREO</td>
+                </tr>
+                <tr div align="center">
+                    <td>11:45</td>
+                    <td>BdD</td>
+                    <td>Par</td>
+                    <td>FH</td>
+                    <td>Iso</td>
+                    <td>Par</td>
+                </tr>
+                <tr div align="center">
+                    <td>12:45</td>
+                    <td>FH</td>
+                    <td rowspan="2">Iso</td>
+                    <td rowspan="2">LdM</td>
+                    <td rowspan="2">BdD</td>
+                    <td rowspan="2">BdD</td>
+                </tr>
+                <tr div align="center">
+                    <td>13:45 <br>14:45</td>
+                    <td>FOL</td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
