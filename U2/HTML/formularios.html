@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Formularios</title>
+    </head>
+    <body>
+        <form>
+            <label for="id_nombre" style="font-weight:bold" >Nombre</label>
+            <input type="text" name="Nombre" id="id_nombre" placeholder="Introducir nombre completo" size="35" required><span style="color:red">*</span>
+            <input type="button" value="Aceptar">
+            <br>
+            <br>
+            <label for="s_opciones" style="font-weight:bold;">Selecciones su fruta favorita</label>
+            <select name="opciones" id="s_opciones" size="4">
+                <option value="Ninguna"></option>
+                <option value="Platano">Platano</option>
+                <option value="Manzana">Manzana</option>
+                <option value="Melocoton">Melocoton</option>
+            </select>
+            <br>
+            <br>
+            <fieldset style="width: 100px;">
+                <legend><h2>Formulario de consulta</h2></legend>
+                <label for="t_consulta"></label>
+                <textarea name="consulta" id="t_consulta" cols="30" rows="10" placeholder="Escriba aqui su consulta"></textarea>
+                <br>
+                <input type="submit">
+                <input type="reset" value="Borrar">
+            </fieldset>
+            
+        </form>
+    </body>
+</html>
