@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE libros>
+<libro>
+    <titulo></titulo>
+    <editorial></editorial>
+    <numero_paginas></numero_paginas>
+    <autor></autor>
+    <capitulos>
+        <nombre_capitulo_1>
+            <pagina_inicio_capitulo></pagina_inicio_capitulo>
+            <pagina_final_capitulo></pagina_final_capitulo>
+        </nombre_capitulo_1>
+        <nombre_capitulo_2>
+            <pagina_inicio_capitulo></pagina_inicio_capitulo>
+            <pagina_final_capitulo></pagina_final_capitulo>
+        </nombre_capitulo_2>
+        <nombre_capitulo_3>
+            <pagina_inicio_capitulo></pagina_inicio_capitulo>
+            <pagina_final_capitulo></pagina_final_capitulo>
+        </nombre_capitulo_3>
+        <nombre_capitulo_4>
+            <pagina_inicio_capitulo></pagina_inicio_capitulo>
+            <pagina_final_capitulo></pagina_final_capitulo>
+        </nombre_capitulo_4>
+        <nombre_capitulo_5>
+            <pagina_inicio_capitulo></pagina_inicio_capitulo>
+            <pagina_final_capitulo></pagina_final_capitulo>
+        </nombre_capitulo_5>
+        <nombre_capitulo_6>
+            <pagina_inicio_capitulo></pagina_inicio_capitulo>
+            <pagina_final_capitulo></pagina_final_capitulo>
+        </nombre_capitulo_6>
+    </capitulos>
+</libro>
